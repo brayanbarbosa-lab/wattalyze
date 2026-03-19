@@ -71,8 +71,7 @@ Os dispositivos ESP32 enviam dados diretamente ao **InfluxDB Cloud**. A platafor
 |---|---|
 | **ESP32** | Microcontrolador principal com Wi-Fi integrado |
 | **DHT11** | Sensor de temperatura e umidade |
-| **Display LCD I2C 16x2** | Exibe leituras localmente |
-| **Conversor 100-240V → 5V** | Alimentação direta da rede elétrica |
+
 
 > ⚠️ Os dispositivos físicos funcionam vinculados a uma conta cadastrada na plataforma. Para testar com um dispositivo real, entre em contato com a equipe.
 
